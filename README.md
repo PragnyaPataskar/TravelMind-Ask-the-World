@@ -1,6 +1,6 @@
 # TravelMind: Ask the World
 
-This repo iy part of my portfolio work and learning, which contains the code for for Retrieval-Augmented Generation (RAG) chatbot that answers the question like Air quality, Places to visit, Interactive map, Summarized travel info and traveling guide throughout the World.
+This repo is part of my portfolio work and learning, which contains the code for Retrieval-Augmented Generation (RAG) chatbot that answers the question like Air quality, Places to visit, Interactive map, Summarized travel info and traveling guide throughout the World.
 
 All responses are structured in JSON and visualized in a Streamlit UI.
 
@@ -17,10 +17,12 @@ All responses are structured in JSON and visualized in a Streamlit UI.
 
 Clone the repo:  git clone https://github.com/Username/TravelMind-Ask-the-World.git
 cd TravelMind_Ask the World
-Install dependencies
+
+## Install dependencies:
+
 pip install -r requirements.txt
 
- Set your API keys in a `.env` file.
+Set your API keys in a `.env` file.
 
 
 ## Runing the app :
@@ -48,4 +50,3 @@ Ask questions like:
 - https://docs.langchain.com/oss/python/langchain/agents
 - https://console.groq.com/docs/models
 - https://docs.langchain.com/oss/python/langchain/rag
-
